@@ -1,0 +1,33 @@
+{
+  "name": "delay-table",
+  "version": "1.0.0",
+  "description": "Generates a delay table by applying an easing function to n discrete samples in a duration.",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "David Tran",
+    "email": "davidt@jam3.com",
+    "url": "https://github.com/eternallite"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "eases": "^1.0.6"
+  },
+  "scripts": {
+    "test": "beefy test.js --live --open"
+  },
+  "keywords": [
+    "delay",
+    "table",
+    "ease",
+    "function"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Jam3/delay-table.git"
+  },
+  "homepage": "https://github.com/Jam3/delay-table",
+  "bugs": {
+    "url": "https://github.com/Jam3/delay-table/issues"
+  }
+}
